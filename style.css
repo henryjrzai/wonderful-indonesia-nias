@@ -188,6 +188,7 @@ header {
 
 .card-testi {
   margin: auto;
+  margin-bottom: 25px;
   width: 350px;
   height: 350px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -276,5 +277,8 @@ footer {
 
   .wisata {
     margin-bottom: 3000px;
+  }
+  .contact {
+    margin-top: 1200px;
   }
 }
